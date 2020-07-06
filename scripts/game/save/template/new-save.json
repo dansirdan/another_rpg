@@ -1,4 +1,5 @@
 {
+    "data": true,
     "name": "",
     "rank": "",
     "stats": {
@@ -37,6 +38,6 @@
             "interruption-rate": 0,
             "potency": 0
         }
-
-    }
+    },
+    "lastSave": ""
 }
